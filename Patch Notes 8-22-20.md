@@ -1,3 +1,5 @@
+# Patch notes: 8/22/20
+
 Xenos
 
 Tau
@@ -38,7 +40,7 @@ Chaos Space Marines - Massive reorganization and overhaul. Added missing options
 
 New collection: Chaos Forge World Units. A collection of models for Forge World models usable by Chaos Marines, Death Guard, and Thousand Sons. Note that some color proxying has been done. Review the included notecards for proxy and recoloring instructions. Models previously available in Chaos Space Marines have been moved here.
 
-Death Guard - Added final missing options on Plague Marines. Removed illegal Blightlord Terminator loadouts. Added more Chaos Lord in Terminator Armor options. Added new models for Beasts of Nurgle and Nurglings.
+Death Guard - Added final missing options on Plague Marines. Removed illegal Blightlord Terminator loadouts. Added more Chaos Lord in Terminator Armor options. Added new Chaos Sorcerer in Terminator Armor models. Added new models for Beasts of Nurgle and Nurglings.
 
 World Eaters - Moved to Squatted Armies
 

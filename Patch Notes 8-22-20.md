@@ -1,60 +1,7 @@
-# Patch notes: 8/22/20
+# Patch notes: 8/30/20
 
-Xenos
+Imperial Guard: Updated Taurox and Taurox Prime models. Updated Marauder Destroyer model.
 
-Tau
-Tau Special Characters - Aun'Shi, Aun'Va, and Ethereal Bodyguard added
+Imperial Knights: Added Knight Perceptor models.
 
-Tau Empire - Ghostkeel resized so it's closer to the tabletop miniature
-
-T'au - Added new Ethereal, and Crisis Suit models.
-
-Vior'la -Added new Ethereal and Crisis Suit models.
-
-Farsight Enclaves - Added new Crisis Suit models.
-
-Tyranids
-All Hive Fleets aside from Kraken have been overhauled with new, better organized tables. Kraken will be updated as soon as the mod maker releases a new version.
-
-Hive Fleet Kraken - Fixed the Heirophant model textures. It's tail is no longer a mass of inky darkness.
-
-New content - Hive Fleet Kronos has been added
-
-Eldar
-Eldar + Special Characters has been renamed "Craftworlds"
-
-Craftworlds - Moved Yvrainne, the Visarch, and the Avatar of Ynnead to "Ynnari"
-
-New collection: Ynnari. Contains the three Ynnari special characters.
-
-Eldar 2 - Moved to Squatted Armies
-
-Orks
-Orks - Added Mekboy Workshop
-
-Chaos
-
-Black Legion/Chaos Undivided renamed to "Chaos Space Marines"
-
-Chaos Space Marines - Massive reorganization and overhaul. Added missing options for Plague Marines, Noise Marines, Havocs, and Chaos Space Marine squads. Resized several characters. Added Huron Blackheart's familiar Hamadrya. Deleted redundant models. Added new Chaos Sorcerer in Terminator Armor models. Forge World options moved to Chaos Forge World Units
-
-New collection: Chaos Forge World Units. A collection of models for Forge World models usable by Chaos Marines, Death Guard, and Thousand Sons. Note that some color proxying has been done. Review the included notecards for proxy and recoloring instructions. Models previously available in Chaos Space Marines have been moved here.
-
-Death Guard - Added final missing options on Plague Marines. Removed illegal Blightlord Terminator loadouts. Added more Chaos Lord in Terminator Armor options. Added new Chaos Sorcerer in Terminator Armor models. Added new models for Beasts of Nurgle and Nurglings.
-
-World Eaters - Moved to Squatted Armies
-
-Emperor's Children - Moved to Squatted Armies
-
-Renegades and Heretics - Moved to Squatted Armies
-
-Imperium
-
-Imperial Guard 2 - Deleted due to redundancy
-
-Map, Tools, and Terrain
-Maps - Added new maps
-
-New Category: Squatted Armies - a collection of armies either lacking support or that have been officially "squatted" (canceled) by Games Workshop. This will act as a respository for these models within the Catalogue in case someone still wishes to use them.
-
-Note that this is a substantial update and it is recommend you delete your existing version of the Mod Catalogue before installing.
+Chaos Knights: Updated Knight Desecrator models.

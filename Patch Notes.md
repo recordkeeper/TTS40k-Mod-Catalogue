@@ -1,17 +1,9 @@
-# Patch notes: 8/30/20 + Hotfix
+# Patch notes: 9/6/2020
 
-Imperial Guard: Updated Taurox and Taurox Prime models. Updated Marauder Destroyer model.
+Space Marines: Primaris and Extras - Added new, recolorable Assault Centurions and Devastator Centurions
 
-Imperial Knights: Added Knight Perceptor models.
+Space Marines: Centurions - Moved to Squatted Armies
 
-Chaos Knights: Updated Knight Desecrator models.
+Eldar: Craftworlds - Resized the bases for Howling Banshees to match the 28mm bases for the new models.
 
-Hotfix notes:
-
-Thousand Sons: Added missing Screamers of Tzeentch
-
-Daemons: Added new Daemon Princess of Khorne model. Uses the model for Valkia the Bloody from Age of Sigmar.
-
-Note: Due to Mothman's release of his Age of Sigmar Trove, I've restructured the folders for the catalogue so that both can be installed with no overlap. The Saves folder now cotains a "Warhammer 40,000 Catalogue" folder, which contains all the save files. The overall install instructions haven't changed, and all future updates will use this install format so that you can have both collections in your TTS game together without issue.
-
-Installing this hotfixed version of the catalogue will update your file structure, so it is recommended you delete your existing catalogue files and do a fresh install.
+Maps, Tools, and Terrain: Maps - Added two Onslaught (44 x 90) maps.

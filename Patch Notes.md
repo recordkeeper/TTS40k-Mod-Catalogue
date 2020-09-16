@@ -1,9 +1,7 @@
-# Patch notes: 9/6/2020
+# Patch notes: 9/13/2020
 
-Space Marines: Primaris and Extras - Added new, recolorable Assault Centurions and Devastator Centurions
+Imperium: Imperial Guard - Added Colonel Iron Hand Straken and Sergeant "Ripper" Jackson. Gave the base Taurox it's proper name.
 
-Space Marines: Centurions - Moved to Squatted Armies
+Chaos: Chaos Space Marines - Added Khorne Berserker with Chainaxe and Chainsword.
 
-Eldar: Craftworlds - Resized the bases for Howling Banshees to match the 28mm bases for the new models.
-
-Maps, Tools, and Terrain: Maps - Added two Onslaught (44 x 90) maps.
+Maps, Tools, and Terrain: Maps - Added more 60 x 44 maps.

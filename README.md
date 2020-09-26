@@ -6,7 +6,6 @@ Installation Instructions:
 1. Open the .zip file and highlight the "Saves" folder.
 2. Drag and drop it into your TTS directory, located in "Documents\my games\Tabletop Simulator."
 If you're on Mac, drop it in "Library\Tabletop Simulator."
-Check to make sure your game is set to save mods in this folder under the "Game" tab in Configuration.
 3. Launch Tabletop Simulator
 4. Select "Create," then "Single Player"
 5. Select "Save & Load," then search the faction folders and saved collections within for the models you need.

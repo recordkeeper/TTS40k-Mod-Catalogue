@@ -15,3 +15,5 @@ Chaos: Chaos Forge World Units - Added Chaos Hellwright and Chaos Hellwright on 
 Tyranids: Genestealer Cults - Added Sanctus with sniper rifle.
 
 Maps, Tools, and Terrain: Maps - Reorganized maps into folders based on mission size. Added more maps for all game sizes.
+
+Note: A fresh install is recommended due to the Maps folder organization changes.

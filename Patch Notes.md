@@ -1,19 +1,23 @@
-# Patch notes: 9/27/20
+# Patch notes: 10/4/20
 
-Adeptus Astartes: Primaris and Extras - Added Gravis Captain with Heavy Bolt Rifle, Eradicators with Heavy Melta Rifle and Multimelta, Heavy Intercessors, and Assault Intercessor Sergeants. Updated the model for Gravis Captain with Power Sword and Boltstorm Gauntlet. Added missing texture for Crimson Fists Primaris infantry.
+Adeptus Astartes
 
-Imperium: Imperial Guard - Added Colonel Iron Hand Straken and Sergeant "Ripper" Jackson. Gave the base Taurox it's proper name.
+Space Marine Supplement Units has been renamed and the models within have been redistributed to their proper collections.
 
-Imperium: Imperial Knights - Added Questoris Knight Magaera and Questoris Knight Styrix
+New collection: Black Templar Supplement Units
 
-Chaos: Chaos Space Marines - Added Khorne Berserker with Chainaxe and Chainsword.
+Ultramarines: Added Chapter Champion, Honor Guard, and Tyrannic War Veterans
 
-Chaos: Chaos Knights - Added Traitor Knight Magaera and Traitor Knight Styrix
+White Scars: Added Khan on Bike
 
-Chaos: Chaos Forge World Units - Added Chaos Hellwright and Chaos Hellwright on Dark Abeyant
+New collection: Servitors and Misc., contains Servitors, Armorium Cherubs, and Haywire Mines.
 
-Tyranids: Genestealer Cults - Added Sanctus with sniper rifle.
+Primaris and Extras: Added Storm Speeders Hailstrike, Thunderstike, and Hammerstrike
 
-Maps, Tools, and Terrain: Maps - Reorganized maps into folders based on mission size. Added more maps for all game sizes.
+Space Marine Forge World Units: Added Chaplain Dreadnoughts
 
-Note: A fresh install is recommended due to the Maps folder organization changes.
+Space Wolf/Blood Angel/Dark Angel Codex Units renamed to <Chapter> Supplement Units.
+
+Xenos
+
+Necrons: Added Lokhust Heavy Destroyers

@@ -5,32 +5,59 @@ This update series begins to bring Deathwatch in line with the new 9th edition S
 The following new units have been added to the Deathwatch.
 
 Chaplain Cassius
+
 Codicier Natorian
+
 Captain with Heavy Bolt Rifle
+
 Gravis Captain
+
 Captain in Phobos Armor
+
 Phobos Librarian
+
 Reiver Lieutenant
+
 Phobos Lieutenant
+
 Primaris Lieutenants
+
 Company Ancient
+
 Primaris Ancient
+
 Company Champion
+
 Apothecary
+
 Kill Team Cassius
+
 Assault Intercessors
+
 Heavy Intercessors
+
 Infiltrators
+
 Incursors
+
 Eliminators
+
 Eradicators
+
 Suppressors
+
 Centurions
+
 Assault Centurions
+
 Invictor Tactical Warsuit
+
 Firestrike Servo-Turret
+
 Predator Destructor and Annihilator
+
 Gladiator Reaper, Lancer, and Valiant
+
 Impulsor
 
 Kill Team Cassius scans by Ringil.

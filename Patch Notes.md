@@ -1,23 +1,65 @@
-# Patch notes: 10/4/20
+# The Deathwatch Update: Part One
 
-Adeptus Astartes
+This update series begins to bring Deathwatch in line with the new 9th edition Space Marine codex. This will be the major focus of the next Mod Catalogue patches, each introducing more of the Deathwatch army list as the model and texture work are finished.
 
-Space Marine Supplement Units has been renamed and the models within have been redistributed to their proper collections.
+The following new units have been added to the Deathwatch.
 
-New collection: Black Templar Supplement Units
+Chaplain Cassius
 
-Ultramarines: Added Chapter Champion, Honor Guard, and Tyrannic War Veterans
+Codicier Natorian
 
-White Scars: Added Khan on Bike
+Captain with Heavy Bolt Rifle
 
-New collection: Servitors and Misc., contains Servitors, Armorium Cherubs, and Haywire Mines.
+Gravis Captain
 
-Primaris and Extras: Added Storm Speeders Hailstrike, Thunderstike, and Hammerstrike
+Captain in Phobos Armor
 
-Space Marine Forge World Units: Added Chaplain Dreadnoughts
+Phobos Librarian
 
-Space Wolf/Blood Angel/Dark Angel Codex Units renamed to <Chapter> Supplement Units.
+Reiver Lieutenant
 
-Xenos
+Phobos Lieutenant
 
-Necrons: Added Lokhust Heavy Destroyers
+Primaris Lieutenants
+
+Company Ancient
+
+Primaris Ancient
+
+Company Champion
+
+Apothecary
+
+Kill Team Cassius
+
+Assault Intercessors
+
+Heavy Intercessors
+
+Infiltrators
+
+Incursors
+
+Eliminators
+
+Eradicators
+
+Suppressors
+
+Centurions
+
+Assault Centurions
+
+Invictor Tactical Warsuit
+
+Firestrike Servo-Turret
+
+Predator Destructor and Annihilator
+
+Gladiator Reaper, Lancer, and Valiant
+
+Impulsor
+
+Kill Team Cassius scans by Ringil.
+
+Note that units introduced in the Indomitus box set are already present in the Deathwatch collection. More new units will be on the way next week.

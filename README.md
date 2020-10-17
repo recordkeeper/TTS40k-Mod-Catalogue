@@ -12,6 +12,10 @@ If you're on Mac, drop it in "Library\Tabletop Simulator."
 6. Right click/Save Object them for import to TTS40k games
 7. Purge heretics.
 
+If you wish to do a fresh install for an update, simply do the following:
+1. Delete the "Warhammer 40,000 Catalogue" folder from your "Documents\my games\Tabletop Simulator\Saves" folder.
+2. Install the new version as listed in the instructions above.
+
 To use the maps included in this collection: Do the following...
 
 1. Subscribe to these mods: https://steamcommunity.com/sharedfiles/filedetails/?id=2146006398

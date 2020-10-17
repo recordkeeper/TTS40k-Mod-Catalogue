@@ -63,3 +63,7 @@ Impulsor
 Kill Team Cassius scans by Ringil.
 
 Note that units introduced in the Indomitus box set are already present in the Deathwatch collection. More new units will be on the way next week.
+
+Additional updates:
+
+Necrons - Added Hexmark Destroyer (scan by ZenphyL)

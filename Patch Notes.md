@@ -41,7 +41,7 @@ Necron scans by ZephyL
 
 Hotfix patch notes:
 
-mperium
+Imperium
 
 -Adeptus Custodes: Added new models for Allarius Terminators and Captain-General Trajann Valoris
 

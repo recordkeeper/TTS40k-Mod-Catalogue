@@ -1,69 +1,40 @@
-# The Deathwatch Update: Part One
+# The Deathwatch Update: Part Two
 
-This update series begins to bring Deathwatch in line with the new 9th edition Space Marine codex. This will be the major focus of the next Mod Catalogue patches, each introducing more of the Deathwatch army list as the model and texture work are finished.
+This week's new additions to the Deathwatch...
 
-The following new units have been added to the Deathwatch.
+Vindicator
 
-Chaplain Cassius
+Razorback with Heavy Flamer
 
-Codicier Natorian
+Stormhawk Interceptor
 
-Captain with Heavy Bolt Rifle
+Stormtalon Gunship
 
-Gravis Captain
+Stormraven Gunship
 
-Captain in Phobos Armor
+Hunter Anti-Aircraft Tank
 
-Phobos Librarian
+Stalker Anti-Aircraft Tank
 
-Reiver Lieutenant
+Hammerfall Bunker
 
-Phobos Lieutenant
 
-Primaris Lieutenants
+Next week will be the final part of the update and will see the remaining HQ, Elite, and Fast Attack options added.
 
-Company Ancient
 
-Primaris Ancient
+Other additions with this patch:
 
-Company Champion
+Adeptus Astartes
 
-Apothecary
+-Primaris and Extras: Added the Hammerfall Bunker
 
-Kill Team Cassius
+Imperium
 
-Assault Intercessors
+-Imperial Guard: Deleted redundant Titan models
 
-Heavy Intercessors
+Xenos
 
-Infiltrators
+-Necrons: Added Monolith 2.0 models covering both weapon loadouts, Monolith models now located in the Lord of War part of the collection. Added HD scans of Necron Warriors and the Silent King.
 
-Incursors
 
-Eliminators
-
-Eradicators
-
-Suppressors
-
-Centurions
-
-Assault Centurions
-
-Invictor Tactical Warsuit
-
-Firestrike Servo-Turret
-
-Predator Destructor and Annihilator
-
-Gladiator Reaper, Lancer, and Valiant
-
-Impulsor
-
-Kill Team Cassius scans by Ringil.
-
-Note that units introduced in the Indomitus box set are already present in the Deathwatch collection. More new units will be on the way next week.
-
-Additional updates:
-
-Necrons - Added Hexmark Destroyer (scan by ZenphyL)
+Necron scans by ZephyL

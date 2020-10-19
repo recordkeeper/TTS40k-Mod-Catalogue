@@ -23,3 +23,5 @@ To use the maps included in this collection: Do the following...
 3. Choose a map from the Maps, Tools, and Terrain\Maps folder in the catalogue under "Save & Load"
 4. Click the three dots on the upper right corner of the map file and select "Additive Load."
 5. The map will load atop the FTC Map Base.
+
+Enjoying the catalogue and wish to support it plus my mod making efforts? Head over to my Ko-fi page: https://ko-fi.com/sig001

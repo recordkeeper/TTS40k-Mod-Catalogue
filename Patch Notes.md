@@ -1,4 +1,4 @@
-# The Deathwatch Update: Part Two
+# The Deathwatch Update: Part Two + 10/18/20 Hotfix
 
 This week's new additions to the Deathwatch...
 
@@ -38,3 +38,13 @@ Xenos
 
 
 Necron scans by ZephyL
+
+Hotfix patch notes:
+
+Imperium
+
+-Adeptus Custodes: Added new models for Allarius Terminators and Captain-General Trajann Valoris
+
+Xenos
+
+-Necrons: Added Ophydian Destroyers, gave new Monoliths a proper base and elevation.

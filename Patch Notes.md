@@ -1,50 +1,30 @@
-# The Deathwatch Update: Part Two + 10/18/20 Hotfix
+# The Deathwatch Update: Part Three
 
-This week's new additions to the Deathwatch...
+Concluding the 9th edition update to Deathwatch, the following units have been added...
 
-Vindicator
+Captain on Bike
 
-Razorback with Heavy Flamer
+Primaris Chaplain on Bike
 
-Stormhawk Interceptor
+Techmarine
 
-Stormtalon Gunship
+Primaris Techmarine
 
-Stormraven Gunship
+Ancient in Terminator Armor
 
-Hunter Anti-Aircraft Tank
+Thunderfire Cannon with Techmarine Gunner
 
-Stalker Anti-Aircraft Tank
+Attack Bikes
 
-Hammerfall Bunker
+Invader ATVs
+
+Land Speeders
+
+Storm Speeders (all variants)
 
 
-Next week will be the final part of the update and will see the remaining HQ, Elite, and Fast Attack options added.
-
-
-Other additions with this patch:
-
-Adeptus Astartes
-
--Primaris and Extras: Added the Hammerfall Bunker
-
-Imperium
-
--Imperial Guard: Deleted redundant Titan models
+Other updates...
 
 Xenos
 
--Necrons: Added Monolith 2.0 models covering both weapon loadouts, Monolith models now located in the Lord of War part of the collection. Added HD scans of Necron Warriors and the Silent King.
-
-
-Necron scans by ZephyL
-
-Hotfix patch notes:
-
-Imperium
-
--Adeptus Custodes: Added new models for Allarius Terminators and Captain-General Trajann Valoris
-
-Xenos
-
--Necrons: Added Ophydian Destroyers, gave new Monoliths a proper base and elevation.
+Necrons: Added Convergence of Dominion. Added HD scan of Canoptek Doomstalker. Fixed base sizes for Necron Lords and Overlords

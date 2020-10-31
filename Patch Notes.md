@@ -4,7 +4,7 @@ Adeptus Astartes
 
 Space Wolves: Added Hounds of Morkai, added Battle Leader with Power Axe and Bolt Carbine.
 
-Dark Angels: Added Lieutenant with Power Sword and Plasma Pistol.
+Dark Angels: Added Lieutenant with Power Sword and Plasma Pistol. Added Death Wing Bladeguard Veterans and Death Wing Bladeguard Ancient. Added Ravenwing Captain on Bike.
 
 Imperium
 

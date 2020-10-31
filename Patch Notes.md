@@ -1,30 +1,21 @@
-# The Deathwatch Update: Part Three
+# 10/31/20 Update
 
-Concluding the 9th edition update to Deathwatch, the following units have been added...
+Adeptus Astartes
 
-Captain on Bike
+Space Wolves: Added Hounds of Morkai, added Battle Leader with Power Axe and Bolt Carbine.
 
-Primaris Chaplain on Bike
+Dark Angels: Added Lieutenant with Power Sword and Plasma Pistol.
 
-Techmarine
+Imperium
 
-Primaris Techmarine
+Imperial Guard: Added new textures for Lord Castellan Creed. Added new model for Color Sergeant Kell.
 
-Ancient in Terminator Armor
+Chaos
 
-Thunderfire Cannon with Techmarine Gunner
+Chaos Forge World Units: Added Death Guard Hell Blade and Hell Talon
 
-Attack Bikes
+Chaos Space Marines: Added new Chaos Sorcerer model.
 
-Invader ATVs
+Xenos:
 
-Land Speeders
-
-Storm Speeders (all variants)
-
-
-Other updates...
-
-Xenos
-
-Necrons: Added Convergence of Dominion. Added HD scan of Canoptek Doomstalker. Fixed base sizes for Necron Lords and Overlords
+Necrons: Resized Shard of the Void Dragon to proper base size, moved him to elites.

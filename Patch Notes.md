@@ -1,21 +1,13 @@
-# 10/31/20 Update
+# 11/7/20 Update
 
 Adeptus Astartes
 
-Space Wolves: Added Hounds of Morkai, added Battle Leader with Power Axe and Bolt Carbine.
+Space Marines (general): Fixed base sizes for Dreadnoughts and Mortis Dreadnoughts. Cleaned up Redemptor Dreadnought and Invictor Tactical Warsuit models.
 
-Dark Angels: Added Lieutenant with Power Sword and Plasma Pistol. Added Death Wing Bladeguard Veterans and Death Wing Bladeguard Ancient. Added Ravenwing Captain on Bike.
+Space Marine Special Characters: Added new model for Asmodai.
+
+Primaris and Extras: Made the Ancient and Primaris Ancient battle standards larger. Renamed one of the Phobos Lieutenant models to 'Reiver Lieutenant' to fit the new codex.
 
 Imperium
 
-Imperial Guard: Added new textures for Lord Castellan Creed. Added new model for Color Sergeant Kell.
-
-Chaos
-
-Chaos Forge World Units: Added Death Guard Hell Blade and Hell Talon
-
-Chaos Space Marines: Added new Chaos Sorcerer model.
-
-Xenos:
-
-Necrons: Resized Shard of the Void Dragon to proper base size, moved him to elites.
+Sisters of Battle: Added new Anchorite and Penitent Engine models. Added new Canoness models.

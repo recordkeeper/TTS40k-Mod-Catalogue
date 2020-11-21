@@ -1,13 +1,17 @@
-# 11/7/20 Update
+# 11/14/20 Update
 
-Adeptus Astartes
+Space Marines
 
-Space Marines (general): Fixed base sizes for Dreadnoughts and Mortis Dreadnoughts. Cleaned up Redemptor Dreadnought and Invictor Tactical Warsuit models.
+Grey Knights: Added new models for Grand Master Voldus and Castellan Crowe.
 
-Space Marine Special Characters: Added new model for Asmodai.
+Space Marine Special Characters: New models for Vulkan He'stan, Logan Grimnar on Stormrider, Krom Dragongaze, Cato Sicarius, Telion, Pedro Kantor, Captain Lysander, Belial, Sammael, and Kayvaan Shrike.
 
-Primaris and Extras: Made the Ancient and Primaris Ancient battle standards larger. Renamed one of the Phobos Lieutenant models to 'Reiver Lieutenant' to fit the new codex.
+Space Marines Primaris and Extras: Cleaned up the models for Repuslor tanks that use the following weapons: Heavy Onslaught Gatling Cannon, Macro Plasma Incinerator, Heavy Laser Destructor.
 
-Imperium
+Chaos
 
-Sisters of Battle: Added new Anchorite and Penitent Engine models. Added new Canoness models.
+Chaos Daemons: Added properly sized bases for Tzeentch and Slaanesh chariots. Added new base for the Keeper of Secrets. Increased the Lord of Change's size. Added Mamon Transfigured.
+
+Chaos Space Marines (general): Added all 25 potential loadouts for Chaos Helbrutes. 'Chaos Dreadnoughts' have been renamed to 'Chaos Helbrutes.'
+
+Thousand Sons: Resized Exalted Sorcerer's on Disc of Tzeentch to their proper size and base size.

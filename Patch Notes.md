@@ -2,16 +2,16 @@
 
 Space Marines
 
-Grey Knights: Added new models for Grand Master Voldus and Castellan Crowe.
+Deathwatch: Resized Corvus Blackstars
 
-Space Marine Special Characters: New models for Vulkan He'stan, Logan Grimnar on Stormrider, Krom Dragongaze, Cato Sicarius, Telion, Pedro Kantor, Captain Lysander, Belial, Sammael, and Kayvaan Shrike.
+Space Marine Forge World Units: Completely reorganized for easier navigation. Has every legal Imperial Armor and Imperial Armor Legends unit available on TTS. Note some variants or units have been removed due to possessing no datasheets in IA or IA Legends, while others are found on the main chapter collections.
 
-Space Marines Primaris and Extras: Cleaned up the models for Repuslor tanks that use the following weapons: Heavy Onslaught Gatling Cannon, Macro Plasma Incinerator, Heavy Laser Destructor.
+Imperium
+
+Imperial Guard: Added Carnodon Battle Tanks. Renamed Lightning Strike Fighter to Voss Pattern Lightning. Changed size and base size for Voss Pattern Lightning, Thunderbolt Heavy Fighter, and Avenger Strike Fighter.
 
 Chaos
 
-Chaos Daemons: Added properly sized bases for Tzeentch and Slaanesh chariots. Added new base for the Keeper of Secrets. Increased the Lord of Change's size. Added Mamon Transfigured.
+Chaos Daemons: Added new Soulgrinder with four different states, each colored to match one of the Chaos Gods.
 
-Chaos Space Marines (general): Added all 25 potential loadouts for Chaos Helbrutes. 'Chaos Dreadnoughts' have been renamed to 'Chaos Helbrutes.'
-
-Thousand Sons: Resized Exalted Sorcerer's on Disc of Tzeentch to their proper size and base size.
+Chaos Forge World Units: Completely reorganized for easier navigation. Has every legal Imperial Armor and Imperial Armor Legends unit available on TTS. Note some variants or units have been removed due to possessing no datasheets in IA or IA Legends. Thousand Sons and Death Guard legion versions of these units are, sadly, not available thanks to Games Workshop's incompetent decisions. I will consider adding legion colors for them in the future as a matter of flavor, even if the rules don't support it.

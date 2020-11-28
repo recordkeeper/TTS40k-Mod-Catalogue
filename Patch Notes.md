@@ -10,6 +10,8 @@ Imperium
 
 Imperial Guard: Added Bullgryns with Slab Shields
 
+Adeptus Custodes: Added new Aquilon Terminator models.
+
 Chaos
 
 Chaos Forge World Units:

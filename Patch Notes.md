@@ -1,17 +1,21 @@
-# 11/14/20 Update
+# 11/28/20 Update
 
-Space Marines
+Adeptus Astartes
 
-Deathwatch: Resized Corvus Blackstars
+Space Wolves Supplement Units: Added new Wulfen models.
 
-Space Marine Forge World Units: Completely reorganized for easier navigation. Has every legal Imperial Armor and Imperial Armor Legends unit available on TTS. Note some variants or units have been removed due to possessing no datasheets in IA or IA Legends, while others are found on the main chapter collections.
+Space Marine Special Characters: New characters added: Harald Deathwolf and Canis Wolfborn. Added new model for Njal Stormcaller in Terminator Armor. Removed Njal Stormcaller in Power Armor due to no more rules support.
 
 Imperium
 
-Imperial Guard: Added Carnodon Battle Tanks. Renamed Lightning Strike Fighter to Voss Pattern Lightning. Changed size and base size for Voss Pattern Lightning, Thunderbolt Heavy Fighter, and Avenger Strike Fighter.
+Imperial Guard: Added Bullgryns with Slab Shields
+
+Adeptus Custodes: Added new Aquilon Terminator models.
 
 Chaos
 
-Chaos Daemons: Added new Soulgrinder with four different states, each colored to match one of the Chaos Gods.
+Chaos Forge World Units:
 
-Chaos Forge World Units: Completely reorganized for easier navigation. Has every legal Imperial Armor and Imperial Armor Legends unit available on TTS. Note some variants or units have been removed due to possessing no datasheets in IA or IA Legends. Thousand Sons and Death Guard legion versions of these units are, sadly, not available thanks to Games Workshop's incompetent decisions. I will consider adding legion colors for them in the future as a matter of flavor, even if the rules don't support it.
+Chaos Space Marines: New models for the following characters: Abaddon the Despoiler, Kharne the Betrayer, Warpsmith, Warsmith. New character added: Cypher, Lord of the Fallen. Resized Chaos Helldrake.
+
+Thousand Sons: Added new models for Ahriman. Resized Thousand Sons Helldrake.

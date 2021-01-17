@@ -1,9 +1,12 @@
-# 12/5/20 Update
+# 1/10/21 Update
 
-Adeptus Astartes
+Eldar
 
-Space Marine Special Characters: New models for Murderfang and Bjorn the Fel Handed
+Craftworlds - Many Craftworld special characters now have either new models, or finally have proper TTS models of their own.
 
-Orks
+Ynnari - Yncarne, Avatar of Ynnead now has a new model.
 
-Orks: Updated table, includes new Flash Gitz.
+3D scans for this week's update made by Ringil.
+
+
+Various Collections - Resized bases to their proper sizes

@@ -20,8 +20,8 @@ To use the maps included in this collection: Do the following...
 
 1. Subscribe to these mods: https://steamcommunity.com/sharedfiles/filedetails/?id=2146006398
 2. Load the FTC 9th Edition Map Base mod
-3. Choose a map from the Maps, Tools, and Terrain\Maps folder in the catalogue under "Save & Load"
-4. Click the three dots on the upper right corner of the map file and select "Additive Load."
-5. The map will load atop the FTC Map Base.
+3. Use MariusEvander's map randomizer mod to select a map: https://steamcommunity.com/sharedfiles/filedetails/?id=2288129365, instructions on how to use the mod here: https://www.youtube.com/watch?t=92&v=W-EJ3jrbp3I&feature=youtu.be
+
+Alternitavely select a map from the Maps folder, then click the three dots on the upper right corner of the map file and select "Additive Load." The map will load atop the FTC Map Base.
 
 Enjoying the catalogue and wish to support it plus my mod making efforts? Head over to my Ko-fi page: https://ko-fi.com/sig001

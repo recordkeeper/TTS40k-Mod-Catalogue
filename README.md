@@ -21,6 +21,10 @@ To create games of 40k to play on TTS: Do the following...
 1. Subscribe to these mods: https://steamcommunity.com/sharedfiles/filedetails/?id=2146006398
 2. Load the FTC 9th Edition Map Base mod
 3. Use MariusEvander's map randomizer mods to select a map:
+
+    Standard mission Incursion maps: https://steamcommunity.com/sharedfiles/filedetails/?id=2357475708
+
+    Specialist mission Incursion maps: https://steamcommunity.com/sharedfiles/filedetails/?id=2357475708
     
     GT mission maps: https://steamcommunity.com/sharedfiles/filedetails/?id=2288129365
     

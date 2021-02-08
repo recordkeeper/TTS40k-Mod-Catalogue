@@ -22,15 +22,15 @@ To create games of 40k to play on TTS: Do the following...
 2. Load the FTC 9th Edition Map Base mod
 3. Use MariusEvander's map randomizer mods to select a map:
 
-    Standard mission Incursion maps: https://steamcommunity.com/sharedfiles/filedetails/?id=2357475708
-
-    Specialist mission Incursion maps: https://steamcommunity.com/sharedfiles/filedetails/?id=2357475708
+    Incursion maps: https://steamcommunity.com/sharedfiles/filedetails/?id=2388130802
     
     GT mission maps: https://steamcommunity.com/sharedfiles/filedetails/?id=2288129365
     
     Alpha League maps: https://steamcommunity.com/sharedfiles/filedetails/?id=2310710927
     
     Narrative maps: https://steamcommunity.com/sharedfiles/filedetails/?id=2321559214
+
+    Onslaught maps: https://steamcommunity.com/sharedfiles/filedetails/?id=2388150592
 
 Instructions on how to use his map randomizer mod can be found here: https://www.youtube.com/watch?t=92&v=W-EJ3jrbp3I&feature=youtu.be
 

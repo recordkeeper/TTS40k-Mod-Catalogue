@@ -16,12 +16,26 @@ If you wish to do a fresh install for an update, simply do the following:
 1. Delete the "Warhammer 40,000 Catalogue" folder from your "Documents\my games\Tabletop Simulator\Saves" folder.
 2. Install the new version as listed in the instructions above.
 
-To use the maps included in this collection: Do the following...
+To create games of 40k to play on TTS: Do the following...
 
 1. Subscribe to these mods: https://steamcommunity.com/sharedfiles/filedetails/?id=2146006398
 2. Load the FTC 9th Edition Map Base mod
-3. Choose a map from the Maps, Tools, and Terrain\Maps folder in the catalogue under "Save & Load"
-4. Click the three dots on the upper right corner of the map file and select "Additive Load."
-5. The map will load atop the FTC Map Base.
+3. Use MariusEvander's map collections and randomizer mods to select a map:
+
+    Incursion maps: https://steamcommunity.com/sharedfiles/filedetails/?id=2388130802
+    
+    Strike Force maps: https://steamcommunity.com/sharedfiles/filedetails/?id=2270614182, https://steamcommunity.com/sharedfiles/filedetails/?id=2270666194, https://steamcommunity.com/sharedfiles/filedetails/?id=2276163947
+    
+    Onslaught maps: https://steamcommunity.com/sharedfiles/filedetails/?id=2388150592
+    
+    GT mission maps: https://steamcommunity.com/sharedfiles/filedetails/?id=2288129365
+    
+    Alpha League mission maps: https://steamcommunity.com/sharedfiles/filedetails/?id=2310710927
+    
+    Narrative mission maps: https://steamcommunity.com/sharedfiles/filedetails/?id=2321559214
+
+Instructions on how to use his map randomizer mod can be found here: https://www.youtube.com/watch?t=92&v=W-EJ3jrbp3I&feature=youtu.be
+
+Alternitavely select a map from the Maps folder in the mod catalogue, then click the three dots on the upper right corner of the map file and select "Additive Load." The map will load atop the FTC Map Base.
 
 Enjoying the catalogue and wish to support it plus my mod making efforts? Head over to my Ko-fi page: https://ko-fi.com/sig001

@@ -1,7 +1,12 @@
 # 2/7/21 Update
 
-Necrons - Added the new Psychomancer. Orikan the Diviner model now properly named.
+Adeptus Astartes
 
-Chaos Daemons - Added Daemon Brutes.
+Space Marine Special Characters - Added new models for High Marshal Helbrecht and Chaplain Grimaldus
 
-Space Marines/Chaos - Space Marine and Chaos Forge World Units has now been updated with Contemptor Dreadnoughts, now sporting all possible weapon combos. Included is a model for the Contemptor Cyclone Missile Launcher with instructions on how to attach it to your Dreadnought.
+Black Templar Supplement Units - The Emperor's Champion has been moved to this collection.
+
+
+Eldar
+
+Craftworlds - Added Warp Hunter and Lynx tanks.

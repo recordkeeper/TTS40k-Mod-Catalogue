@@ -1,12 +1,15 @@
-# 2/7/21 Update
+# 2/21/21 Update
 
 Adeptus Astartes
 
-Space Marine Special Characters - Added new models for High Marshal Helbrecht and Chaplain Grimaldus
+Space Marine Special Characters - New models for Brother Corbulo, Astorath, the Sanguinor, and Commander Dante
 
-Black Templar Supplement Units - The Emperor's Champion has been moved to this collection.
+Blood Angels Supplement Units - Added Captain Karlaen as a special Terminator model.
 
+Chaos
 
-Eldar
+Chaos Daemons - New model for Shalaxi Hellbane.
 
-Craftworlds - Added Warp Hunter and Lynx tanks.
+Orks
+
+Orks - Updated model collection. Now has more Goff units, plus others.

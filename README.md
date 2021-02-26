@@ -1,6 +1,6 @@
 # TTS40k-Mod-Catalogue
 
-A repository of mods for playing Warhammer 40,000 on Tabletop Simulator. Updated regularly, every Tuseday if there's new content worth adding.
+A repository of mods for playing Warhammer 40,000 on Tabletop Simulator. Updated regularly, every Sunday if there's new content worth adding.
 
 Installation Instructions:
 1. Open the .zip file and highlight the "Saves" folder.
